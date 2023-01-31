@@ -1,7 +1,7 @@
 .videoWrapper {
     position: relative;
-    padding-bottom: 10%; /* 16:9 */
-    padding-top: 10%;
+    padding-bottom: none; /* 16:9 */
+    padding-top: none;
     height: 0;
 }
 .videoWrapper iframe {
